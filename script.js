@@ -7,8 +7,4 @@ function fixNav() {
     } else {
         nav.classList.remove('active')
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 03bbb0bfcf59d727aa3626d4fbb3a6d4880d5574
