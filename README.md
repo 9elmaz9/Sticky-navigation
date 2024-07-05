@@ -1,6 +1,6 @@
 # Sticky Navigation Project
 
-![Screenshot](https://www.dein-web-design.de/responsive-webdesign/images/buchregal.jpg)
+![Screenshot](https://i.pinimg.com/564x/a8/21/c6/a821c6d8f292564abf3bda488a79518c.jpg)
 
 This project demonstrates a sticky navigation bar that changes style when scrolling down the page. It includes a hero section with a background image and some content sections. The project is built using HTML, CSS, and JavaScript.
 
