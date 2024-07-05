@@ -1,6 +1,6 @@
 # Sticky Navigation Project
 
-## //9elmaz9.github.io/Sticky-navigation/
+## 9elmaz9.github.io/Sticky-navigation/
 
 ![Screenshot](https://i.pinimg.com/564x/a8/21/c6/a821c6d8f292564abf3bda488a79518c.jpg)
 
